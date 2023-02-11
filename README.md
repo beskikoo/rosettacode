@@ -1,4 +1,5 @@
-# RosettaCode
+# My Rosetta Code Contributions
 [![The Stone of Rosetta in Code](rosettacode.png)](http://rosettacode.org)
-My Rosseta Code Contributions
 
+This Git Repository may contain some relevant code contributions of mine to
+http://rosettacode.org.
