@@ -1,5 +1,5 @@
-# Chosen Rosetta Code Contributions
+# Rosetta Code Contribution Utilities
 [![The Stone of Rosetta in Code](rosettacode.png)](http://rosettacode.org)
 
-This Git Repository may contain some relevant code [contributions](https://rosettacode.org/wiki/Special:Contributions/Menjaraz) of mine to
+This Git Repositorycontains miscellaneous in-house tools I coocked to streamline my [contributions](https://rosettacode.org/wiki/Special:Contributions/Menjaraz) to
 http://rosettacode.org.
