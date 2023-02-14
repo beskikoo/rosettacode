@@ -5,4 +5,4 @@ http://rosettacode.org.
 
 [![The Stone of Rosetta in Code](rosettacode.png)](http://rosettacode.org)
 
-Coding and doing Math is the best way to put off cognitive decline :brain: :brain: :brain:
+Coding and doing Math are the best way to put off cognitive decline :brain: :brain: :brain:
